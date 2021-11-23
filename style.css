@@ -11343,12 +11343,12 @@ a.text-dark:hover, a.text-dark:focus {
 
 .btn-grad {
   color: #ffffff;
-  background: -moz-linear-gradient(150deg, #c94b4b 0%, #4b134f 50%, #c94b4b 100%);
-  background: -webkit-gradient(linear, left top, right top, color-stop(0%, #c94b4b), color-stop(50%, #4b134f), color-stop(100%, #c94b4b));
-  background: -webkit-linear-gradient(150deg, #c94b4b 0%, #4b134f 50%, #c94b4b 100%);
-  background: -o-linear-gradient(150deg, #c94b4b 0%, #4b134f 50%, #c94b4b 100%);
-  background: -ms-linear-gradient(150deg, #c94b4b 0%, #4b134f 50%, #c94b4b 100%);
-  background: linear-gradient(150deg, #c94b4b 0%, #4b134f 50%, #c94b4b 100%);
+  background: -moz-linear-gradient(150deg, #5C7FBF 0%, #E4EBF3 50%, #5C7FBF 100%);
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, #5C7FBF), color-stop(50%, #E4EBF3), color-stop(100%, #5C7FBF));
+  background: -webkit-linear-gradient(150deg, #5C7FBF 0%, #E4EBF3 50%, #5C7FBF 100%);
+  background: -o-linear-gradient(150deg, #5C7FBF 0%, #E4EBF3 50%, #5C7FBF 100%);
+  background: -ms-linear-gradient(150deg, #5C7FBF 0%, #E4EBF3 50%, #5C7FBF 100%);
+  background: linear-gradient(150deg, #5C7FBF 0%, #E4EBF3 50%, #5C7FBF 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$color-one', endColorstr='$color-two',GradientType=1 );
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -13354,7 +13354,7 @@ header.navbar-sticky-on .navbar-brand .navbar-brand-item {
 }
 
 /*===============================
-					FOOTER 	
+          FOOTER  
 =================================*/
 footer .footer-logo img,
 footer .footer-logo-item {
@@ -13392,7 +13392,7 @@ footer .widget {
 }
 
 /*===============================
-			   PORTFOLIO 
+         PORTFOLIO 
 =================================*/
 .items-padding {
   margin: 10px;
@@ -13863,7 +13863,7 @@ footer .widget {
 }
 
 /*===============================
-			 INDEX PORTFOLIO
+       INDEX PORTFOLIO
 =================================*/
 .personal-portfolio .portfolio-info {
   position: absolute;
@@ -13972,7 +13972,7 @@ footer .widget {
 }
 
 /*===============================
-			    BLOG POST
+          BLOG POST
 =================================*/
 .post {
   position: relative;
@@ -14122,7 +14122,7 @@ footer .widget {
 }
 
 /*===============================
-			 BLOG PAGE
+       BLOG PAGE
 =================================*/
 .post-item {
   position: relative;
@@ -14611,7 +14611,7 @@ footer .widget {
 }
 
 /* ===================================
-			     components
+           components
 ====================================== */
 /*accordion*/
 .accordion {
