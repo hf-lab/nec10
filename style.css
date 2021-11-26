@@ -11363,7 +11363,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .btn-grad.active, .btn-grad:active, .btn-grad:focus, .btn-grad:hover {
-  color: #1a759f;
+  color: #FFFFFF  ;
   background-position: left bottom;
 }
 
