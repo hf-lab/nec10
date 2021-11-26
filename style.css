@@ -6260,7 +6260,7 @@ button.bg-dark:focus {
 }
 
 .bg-white {
-  background-color: #1a759f !important;
+  background-color: #d3d3d3 !important;
 }
 
 .bg-transparent {
@@ -11343,7 +11343,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .btn-grad {
-  color: #FFFFFF;
+  color: #1A759F;
   background: -moz-linear-gradient(150deg, #92a2e0 0%, #dfc5e4 50%, #92a2e0 100%);
   background: -webkit-gradient(linear, left top, right top, color-stop(0%, #92a2e0), color-stop(50%, #dfc5e4), color-stop(100%, #92a2e0));
   background: -webkit-linear-gradient(150deg, #92a2e0 0%, #dfc5e4 50%, #92a2e0 100%);
