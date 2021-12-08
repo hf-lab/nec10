@@ -10857,43 +10857,43 @@ button.bg-dark:focus {
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #338a62 !important;
+  color: #FFFFFF !important;
 }
 
 .text-secondary {
-  color: #e8f7ee !important;
+  color: #FFFFFF !important;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
-  color: #696d71 !important;
+  color: #FFFFFF !important;
 }
 
 .text-success {
-  color: #28a745 !important;
+  color: #FFFFFF !important;
 }
 
 a.text-success:hover, a.text-success:focus {
-  color: #19692c !important;
+  color: #FFFFFF !important;
 }
 
 .text-info {
-  color: #17a2b8 !important;
+  color: #FFFFFF !important;
 }
 
 a.text-info:hover, a.text-info:focus {
-  color: #0f6674 !important;
+  color: #FFFFFF !important;
 }
 
 .text-warning {
-  color: #ffc107 !important;
+  color: #FFFFFF !important;
 }
 
 a.text-warning:hover, a.text-warning:focus {
-  color: #ba8b00 !important;
+  color: #FFFFFF !important;
 }
 
 .text-danger {
-  color: #dc3545 !important;
+  color: #FFFFFF !important;
 }
 
 a.text-danger:hover, a.text-danger:focus {
@@ -12189,16 +12189,16 @@ textarea {
 ====================================== */
 /* text color */
 .all-text-white *, .text-all-white * {
-  color: #5A83C3;
+  color: #FFFFFF;
 }
 
 .text-grad {
-  background: -moz-linear-gradient(150deg, #92a2e0 0%, #92a2e0 100%);
+  background: -moz-linear-gradient(150deg, #92a2e0 0%, #FFFFFF 100%);
   background: -webkit-gradient(linear, left top, right top, color-stop(0%, #92a2e0), color-stop(100%, #92a2e0));
-  background: -webkit-linear-gradient(150deg, #92a2e0 0%, #92a2e0 100%);
-  background: -o-linear-gradient(150deg, #92a2e0 0%, #92a2e0 100%);
-  background: -ms-linear-gradient(150deg, #92a2e0 0%, #92a2e0 100%);
-  background: linear-gradient(150deg, #92a2e0 0%, #92a2e0 100%);
+  background: -webkit-linear-gradient(150deg, #92a2e0 0%, #FFFFFF 100%);
+  background: -o-linear-gradient(150deg, #92a2e0 0%, #FFFFFF 100%);
+  background: -ms-linear-gradient(150deg, #92a2e0 0%, #FFFFFF 100%);
+  background: linear-gradient(150deg, #92a2e0 0%, #FFFFFF 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$color-one', endColorstr='$color-two',GradientType=1 );
   -webkit-background-clip: text;
   -moz-background-clip: text;
