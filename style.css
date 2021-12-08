@@ -6261,7 +6261,7 @@ button.bg-dark:focus {
 }
 
   .bg-white {
-    background-color: #8ecae6 !important;
+    background-color: #4878C4 !important;
 }
 
 .bg-transparent {
@@ -12233,12 +12233,12 @@ textarea {
 }
 
 .icon-grad i:before {
-  background: -moz-linear-gradient(150deg, #92a2e0 0%, #FFFFFF 100%);
+  background: -moz-linear-gradient(150deg, #000000 0%, #000000 100%);
   background: -webkit-gradient(linear, left top, right top, color-stop(0%, #92a2e0), color-stop(100%, #92a2e0));
-  background: -webkit-linear-gradient(150deg, #92a2e0 0%, #FFFFFF 100%);
-  background: -o-linear-gradient(150deg, #92a2e0 0%, #FFFFFF 100%);
-  background: -ms-linear-gradient(150deg, #92a2e0 0%, #FFFFFF 100%);
-  background: linear-gradient(150deg, #92a2e0 0%, #FFFFFF 100%);
+  background: -webkit-linear-gradient(150deg, #000000 0%, #000000 100%);
+  background: -o-linear-gradient(150deg, #000000 0%, #000000 100%);
+  background: -ms-linear-gradient(150deg, #000000 0%, #000000 100%);
+  background: linear-gradient(150deg, #000000 0%, #000000 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$color-one', endColorstr='$color-two',GradientType=1 );
   -webkit-background-clip: text;
   -moz-background-clip: text;
@@ -12254,12 +12254,12 @@ textarea {
 
 /* background color */
 .bg-grad {
-  background: -moz-linear-gradient(150deg, #92a2e0 0%, #FFFFFF 100%);
+  background: -moz-linear-gradient(150deg, #92a2e0 0%, #92a2e0 100%);
   background: -webkit-gradient(linear, left top, right top, color-stop(0%, #92a2e0), color-stop(100%, #92a2e0));
-  background: -webkit-linear-gradient(150deg, #92a2e0 0%, #FFFFFF 100%);
-  background: -o-linear-gradient(150deg, #92a2e0 0%, #FFFFFF 100%);
-  background: -ms-linear-gradient(150deg, #92a2e0 0%, #FFFFFF 100%);
-  background: linear-gradient(150deg, #92a2e0 0%, #FFFFFF 100%);
+  background: -webkit-linear-gradient(150deg, #92a2e0 0%, #92a2e0 100%);
+  background: -o-linear-gradient(150deg, #92a2e0 0%, #92a2e0 100%);
+  background: -ms-linear-gradient(150deg, #92a2e0 0%, #92a2e0 100%);
+  background: linear-gradient(150deg, #92a2e0 0%, #92a2e0 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$color-one', endColorstr='$color-two',GradientType=1 );
 }
 
