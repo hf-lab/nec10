@@ -12107,7 +12107,7 @@ textarea {
   }
   .icon-grad i::before, .text-grad {
     background: none !important;
-    color: #ffffff !important;
+    color: #92A2E0 !important;
   }
   .wave + .wave {
     height: 100px !important;
@@ -12194,12 +12194,12 @@ textarea {
 }
 
 .text-grad {
-  background: -moz-linear-gradient(150deg, #92a2e0 0%, #FFFFFF 100%);
+  background: -moz-linear-gradient(150deg, #92a2e0 0%, #92A2E0 100%);
   background: -webkit-gradient(linear, left top, right top, color-stop(0%, #92a2e0), color-stop(100%, #92a2e0));
-  background: -webkit-linear-gradient(150deg, #92a2e0 0%, #FFFFFF 100%);
-  background: -o-linear-gradient(150deg, #92a2e0 0%, #FFFFFF 100%);
-  background: -ms-linear-gradient(150deg, #92a2e0 0%, #FFFFFF 100%);
-  background: linear-gradient(150deg, #92a2e0 0%, #FFFFFF 100%);
+  background: -webkit-linear-gradient(150deg, #92a2e0 0%, #92A2E0 100%);
+  background: -o-linear-gradient(150deg, #92a2e0 0%, #92A2E0 100%);
+  background: -ms-linear-gradient(150deg, #92a2e0 0%, #92A2E0 100%);
+  background: linear-gradient(150deg, #92a2e0 0%, #92A2E0 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$color-one', endColorstr='$color-two',GradientType=1 );
   -webkit-background-clip: text;
   -moz-background-clip: text;
